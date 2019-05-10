@@ -2143,7 +2143,7 @@ dt:target,
     box-sizing: border-box;
     background: #f4f4f4;
     border: 1px solid #dcdcda;
-    color: {{theme_secondary_color}};
+    color: {{theme_primary_color_dark}};
     font-size: 0.85em;
     margin: 0;
     padding: 0.25em 0.4em;
