@@ -3,7 +3,7 @@
     top: 50%;
     right: 1%;
     max-width: 10%;
-    background: #FFF;
+    background: #f2f2f2;
     padding: 0.8%;
     transform: translate(0%, -50%);
     border: 1px solid black;
